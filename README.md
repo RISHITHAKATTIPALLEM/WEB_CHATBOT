@@ -1,5 +1,4 @@
-# 💬 Profile Chatbot – ELiteTech Intern (Task 3)
-
+# 💬 Profile Chatbot 
 This project is a simple **front-end chatbot** built using **HTML, CSS, and JavaScript**. It simulates a conversation where the bot responds with a predefined personal profile including name, interests, education, and skills.
 
 ---
